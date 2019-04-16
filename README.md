@@ -24,7 +24,7 @@ Facilitates interaction between clients and venues.
 ## web-client
 Connects with music player API to enumerate songs and sends vote/skip requests to facilitator.
 # Installation
-## Preqrequisites
+## Prerequisites
 
 ## Installation steps
 # Functionality and known issues
