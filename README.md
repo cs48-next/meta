@@ -24,10 +24,7 @@ Facilitates interaction between clients and venues.
 ## [frontend](https://github.com/cs48-next/frontend)
 Connects with music player API to enumerate songs and sends vote/skip requests to facilitator.
 # Installation
-## Prerequisites
-
-## Installation steps
-# Functionality and known issues
+See installation details in each of the above repositories.
 # License
 [Apache License 2.0](LICENSE)
 <!---
