@@ -21,7 +21,7 @@ host after an event will allow the host to get insightful data about the music p
 # Components
 ## [facilitator](https://github.com/cs48-next/facilitator)
 Facilitates interaction between clients and venues.
-## web-client
+## [frontend](https://github.com/cs48-next/frontend)
 Connects with music player API to enumerate songs and sends vote/skip requests to facilitator.
 # Installation
 ## Prerequisites
